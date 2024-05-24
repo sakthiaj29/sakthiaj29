@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm S Sakthi</h1>
  Mathematics -> Software Developer
+ </br>
 - 🌱 I’m currently learning **DSA**
-
+</br>
 - 📫 How to reach me **sakthiaj2912@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
