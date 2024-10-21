@@ -5,11 +5,10 @@
 </br>
 - 📫 How to reach me **sakthiaj2912@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Read me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakthi-s-aj2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakthi s" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sakthiaj2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sakthiaj2912" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sakthiaj29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakthiaj29" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sakthi_2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakthiaj29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
